@@ -6,5 +6,6 @@ export const environment = {
     apiKey: 'AIzaSyAlhdCDDP5-0Ribo1r_Daitkqxw3Pox0WA',
     authDomain: 'fir-test-2-d97f8.firebaseapp.com',
     messagingSenderId: '95858383166',
+    measurementId: 'G-MZ5289NK6G',
   },
 };
